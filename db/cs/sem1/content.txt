@@ -1,0 +1,9 @@
+1.Math 1
+2.Physics
+3.Civ
+4.Mech
+5.Electrical
+6.CIP
+7.WSL
+8.PHL
+

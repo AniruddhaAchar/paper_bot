@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1428157557 source:e:\programming\cpp\paperbot3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<conio.h>
+	<string>
+	<algorithm>
+	<ctime>
+	<string.h>
+
